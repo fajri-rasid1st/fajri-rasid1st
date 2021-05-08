@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajri-rasid1st&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajri-rasid1st&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajri-rasid1st&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajri-rasid1st&langs_count=7&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fajri-rasid1st/fajri-rasid1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
