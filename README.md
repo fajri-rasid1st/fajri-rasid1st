@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Fajri.
 
-A computer science student who has programming skills and interested in mobile application development, especially Android using Flutter framework. I'm also happy and always open to learning new technology.
+A computer science student who has programming skills and interested in mobile application development, especially Android using Flutter framework. I'm also happy and always open to learn new things and technologies.
 
 ### Tech Skills
 
