@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Fajri.
 
-An information systems student who has programming (IT) skills and interested in mobile application development especially Android using Flutter framework. I like to design the UI of an application using Figma software. I'm also happy and always open to learn new things and technologies.
+An information systems student who has programming skills and interested in mobile application development, especially Android using Flutter framework. I'm also able to create websites and design UI of an application. I'm happy and always open to learn new things and technologies.
 
 ### Tech Skills
 
