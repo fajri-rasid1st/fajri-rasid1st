@@ -47,7 +47,4 @@ An information systems student who has programming skills and interested in mobi
 </a>
 <a href="https://www.instagram.com/fajri_rasid1st">
   <img align="left" alt="Instagram" title="Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
-</a>
-<a href="https://twitter.com/FajriRasid">
-  <img align="left" alt="Twitter" title="Twitter" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111688.png" />
 </a>  
