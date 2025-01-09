@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Fajri.
 
-An information systems student who has programming skills and interested in mobile application development, especially Android using Flutter framework. I'm also able to create websites and design UI of an application. I'm happy and always open to learn new things and technologies.
+A Flutter Developer with more than 2 years of experience. Skilled in slicing UI design into Flutter code and integrating REST API. Understand and be able to implement several mobile app related technologies, such as notifications, firebase, local storage, permission handlers, etc. I also have fundamental skills in designing UI/UX of applications. I am always open to explore new things or technologies and willing to collaborate in a friendly and respectful way.
 
 ### Tech Skills
 
@@ -42,7 +42,7 @@ An information systems student who has programming skills and interested in mobi
 
 ### Reach me on
 
-<a href="https://www.linkedin.com/in/muhammad-fajri-rasid-26558114b">
+<a href="https://www.linkedin.com/in/fajri-rasid1st">
   <img align="left" alt="LinkedIn" title="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" />
 </a>
 <a href="https://www.instagram.com/fajri_rasid1st">
