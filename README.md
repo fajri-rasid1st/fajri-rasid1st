@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Fajri.
 
-A Flutter Developer with more than 2 years of experience. Skilled in slicing UI design into Flutter code and integrating REST API. Understand and be able to implement several mobile app related technologies, such as notifications, firebase, local storage, permission handlers, etc. I also have fundamental skills in designing UI/UX of applications. I am always open to explore new things or technologies and willing to collaborate in a friendly and respectful way.
+An Information Systems graduate who has a passion for Software Development with 2 years of experience. Talented in developing mobile applications using Flutter SDK, such as slicing UI design into Flutter code, integrating data through REST API, and implementing various technologies, such as Firebase, local database, state management, and third-party libraries. Have a strong desire to learn, enjoy to explore new things or technologies, and are willing to work together in a friendly and respectful manner.
 
 ### Tech Skills
 
