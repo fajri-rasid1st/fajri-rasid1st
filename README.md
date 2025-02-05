@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Fajri.
 
-An Information Systems graduate who has a passion for software development with 2 years of experience. Talented in developing mobile applications using Flutter SDK, such as slicing UI design, integrating REST APIs, and implementing various technologies, such as Firebase, local database, state management, and third-party libraries or services. Have a strong desire to learn, enjoy to explore new things or technologies, and are willing to work together in a friendly and respectful manner.
+An Information Systems graduate who has a passion for software development with more than 2 years of experience. Talented in developing mobile applications using Flutter SDK, such as slicing UI design, integrating REST APIs, and implementing various technologies, such as Firebase, local database, state management, and third-party libraries or services. Have a strong desire to learn, enjoy to explore new things or technologies, and are willing to collaborate in a friendly and respectful manner.
 
 ### Tech Skills
 
