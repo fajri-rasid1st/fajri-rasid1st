@@ -4,7 +4,7 @@ A Software Developer with 3+ years of experience building and publishing mobile 
 
 ### Tech Skills
 
-**Programming languanges**
+**Programming Languanges**
 
 <p>
   <a href="https://github.com/topics/dart"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&color=045393&logo=Dart&logoColor=white"></a>
