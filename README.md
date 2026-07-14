@@ -4,7 +4,7 @@ A Software Developer with 3+ years of experience building and publishing mobile 
 
 ### Tech Skills
 
-**Programming languange**
+**Programming languanges**
 
 <p>
   <a href="https://github.com/topics/dart"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&color=045393&logo=Dart&logoColor=white"></a>
@@ -13,7 +13,7 @@ A Software Developer with 3+ years of experience building and publishing mobile 
   <a href="https://github.com/topics/php"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=PHP&logoColor=white"></a>
 </p>
 
-**Framework**
+**Frameworks**
 
 <p>
   <a href="https://github.com/topics/flutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white"></a>
@@ -22,7 +22,7 @@ A Software Developer with 3+ years of experience building and publishing mobile 
   <a href="https://github.com/topics/bootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=Bootstrap&logoColor=white"></a>
 </p>
 
-**Database**
+**Databases**
 
 <p>
   <a href="https://github.com/topics/mysql"><img alt="MySQL" src="https://img.shields.io/badge/mySQL-%2300f.svg?style=flat&logo=mySQL&logoColor=white"></a>
